@@ -12,11 +12,20 @@ Para o hardware a linguagem utilizada foi C#, no ambiente do Arduino IDE. Esta l
 Este projeto foi desenvolvido tendo por base o modelo de arquitetura MVC, juntamente com a framework PHP CodeIgniter. 
 As linguagens utilizadas durante o desenvolvimento do projeto foram: 
   HTML;
+  
   CSS;
+  
   Javascript;
+  
   PHP;
+  
   MySQL ─ SGBD que utiliza a linguagem SQL;
+  
+  
 Além destas linguagens os recursos utilizados foram:
+
   CodeIgniter ─ Framework de desenvolvimento de aplicações em PHP;
+  
   BootStrap ─ Framework que atua em HTML, CSS e JavaScript e permite a criação de elementos estilizados;
+  
   XAMPP ─ Ferramenta que permite usar o computador como servidor local;
